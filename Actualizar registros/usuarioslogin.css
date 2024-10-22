@@ -1,0 +1,34 @@
+html{
+    background-color: black;
+}
+
+header {
+    background-color: brown;
+    background-image: url(imagenes/cafe\ molido.jpg);
+    height: 150px;
+    width: 100%;
+}
+
+main {
+    background-image: url(imagenes/Tomate.jpeg);
+    background-repeat: no-repeat;
+    background-position: 260px;
+    opacity: 0.9;
+}
+
+aside {
+    display: inline-block;
+    width: 300px;
+    min-height: 650px;
+    background-color: #EAAC7F;
+}
+
+
+input{
+    width: 200px ;
+    padding: 5px ;
+    margin-left: 30px ;
+    height: 30px;
+    display: block;
+    position: left;
+}

@@ -1,0 +1,35 @@
+html{
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    background-color: rgb(192, 32, 152);
+    height: 180px;
+    width: 100%;
+}
+
+main {
+    background-image: url(imagenes/ciudad.gif);
+    background-repeat: no-repeat;
+    background-position: 360px;
+    opacity: 0.9;
+}
+
+aside {
+    display: inline-block;
+    width: 300px;
+    min-height: 650px;
+    background-color: #fceb00;
+}
+
+
+input{
+    width: 200px ;
+    padding: 5px ;
+    margin-left: 30px ;
+    height: 30px;
+    display: block;
+    position: left;
+}
+
+
